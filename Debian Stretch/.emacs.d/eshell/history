@@ -1,0 +1,6 @@
+cd src/dotfiles/
+ls
+cp .statusbar ~/.status
+cd ~/
+xlsfonts | grep siji
+xlsfonts | grep erus

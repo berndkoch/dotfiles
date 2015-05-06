@@ -1,0 +1,18 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '(("linuxbbq.org"
+  [url-cookie "phpbb3_j7sw1_u" "1" "04-May-2016 18:06:15.00 GMT" "/" "linuxbbq.org" nil]
+  [url-cookie "HttpOnly" nil "04-May-2016 18:06:32.00 GMT" "/" "linuxbbq.org" nil]
+  [url-cookie "phpbb3_j7sw1_k" "" "04-May-2016 18:06:15.00 GMT" "/" "linuxbbq.org" nil]
+  [url-cookie "phpbb3_j7sw1_sid" "19e06a538cecebfb254204faa908595e" "04-May-2016 18:06:15.00 GMT" "/" "linuxbbq.org" nil]
+  [url-cookie "phpbb3_j7sw1_track" "tf%3A%2819%3A%281lm%3A1%3B%29%3B%29%3Bt%3A%281lm%3A2f1v3x%3B%29%3B" "04-May-2016 18:06:32.00 GMT" "/" "linuxbbq.org" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
